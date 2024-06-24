@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0923e4e1-48dc-43ee-a1a4-dc6fbdd35611/resourceGroups/SQL_WebApp_RG/providers/Microsoft.Web/sites/RiskBeanBackEnd",
+    "appService.deploySubpath": "."
+}
